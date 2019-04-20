@@ -1,2 +1,2 @@
 # Lucky-Draw
-Application That chooses a number from 1 to 1500.
+Application That chooses a Random number from 1 to 1500.
